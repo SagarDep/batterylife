@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Battery Life</string>
+
+    <string name="battery_tips">Just click SHOW BATTERY button, you will see battery info in your device quick setting</string>
+</resources>
